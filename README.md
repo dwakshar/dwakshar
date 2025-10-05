@@ -1,90 +1,94 @@
-# 👋 \[Your Name\]
+🌟 Welcome to [Your Name]'s GitHub
+Hello! I'm a [Your Job Title] based in [Your City, Country], driven by a passion for crafting innovative tech solutions and pushing boundaries in [Your Field]. Explore my projects, skills, and journey below!
 
-\[Your Job Title\] from \[Your City, Country\]. Passionate about building innovative tech solutions.
-
----
-
-## 📋 About Me
-
-```yaml
+🧑‍💻 About Me
 name: [Your Name]
 location: [Your City, Country]
-job: [Your Job Title]
+from: [Your Hometown]
+role: [Your Job Title]
 company: [Your Current Company]
-education: ["[Degree 1]", "[Degree 2]"]
-past_experiences:
+education:
+  - [Degree 1]
+  - [Degree 2]
+past_roles:
   - [Job Title, Company, Year Range]
   - [Job Title, Company, Year Range]
-interests: ["[Interest 1]", "[Interest 2]"]
-skills: ["[Skill 1]", "[Skill 2]"]
-learning: ["[Topic 1]", "[Topic 2]"]
-hobbies: ["[Hobby 1]", "[Hobby 2]"]
-```
+interests:
+  - [Interest 1]
+  - [Interest 2]
+skills:
+  - [Skill 1]
+  - [Skill 2]
+currently_learning:
+  - [Topic 1]
+  - [Topic 2]
+hobbies:
+  - [Hobby 1]
+  - [Hobby 2]
 
----
 
-## 🌐 Connect
+🌐 Let’s Connect
 
-- LinkedIn
-- Twitter
+LinkedIn – Professional networking
+Twitter – Tech thoughts & updates
+Website – My portfolio & projects
 
----
 
-## ⚡ Recent Activity
+🚀 Recent Contributions
 
-1. 🚀 Pushed to `[your-username]/[repo]`
-2. ❗ Opened issue #\[issue-number\] in `[repo-owner]/[repo]`
-3. 💪 Submitted PR #\[pr-number\] in `[repo-owner]/[repo]`
 
----
+✨ Pushed updates to [your-username]/[repo]
+🐛 Opened issue #[issue-number] in [repo-owner]/[repo]
+🔄 Submitted PR #[pr-number] to [repo-owner]/[repo]
 
-## 📊 Coding Stats
 
-**GitHub Stats**
 
-> 🏆 \[Contributions\] in 2025\
-> 📜 \[Public Repos\] Repos\
-> 🔑 \[Private Repos\] Repos
 
-**When I Code**
+📊 My Coding Stats
 
-```text
-🌞 Morning  [Commits]    ██████░░░░ [Percentage]%
-🌆 Daytime  [Commits]    ██░░░░░░░░ [Percentage]%
-🌃 Evening  [Commits]    ████░░░░░░ [Percentage]%
-🌙 Night    [Commits]    ███░░░░░░░ [Percentage]%
-```
+GitHub Overview
 
-**This Week**
+🏆 [Contributions] Contributions in 2025📦 [Storage Used] in GitHub Storage📜 [Public Repos] Public Repositories🔒 [Private Repos] Private Repositories  
 
-```text
-💬 Languages:
-[Language 1]  [Hours] hrs  ██████░░░░ [Percentage]%
-[Language 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
+💡 Coding Rhythm
+🌅 Morning  [Commits] commits  ████░░░░░░ [Percentage]%
+☀️ Daytime  [Commits] commits  ████████░░ [Percentage]%
+🌙 Evening  [Commits] commits  ██████░░░░ [Percentage]%
+🌌 Night    [Commits] commits  ███░░░░░░░ [Percentage]%
 
-🐱‍💻 Projects:
-[Project 1]  [Hours] hrs  ██████░░░░ [Percentage]%
-[Project 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
-```
+🔥 This Week’s Focus
+🕒 Time Zone: [Your Time Zone]
 
-Last Updated: 05/10/2025 UTC
+💻 Languages:
+[Language 1]  [Hours] hrs  ████████░░ [Percentage]%
+[Language 2]  [Hours] hrs  █████░░░░░ [Percentage]%
+[Language 3]  [Hours] hrs  ███░░░░░░░ [Percentage]%
 
----
+🛠️ Projects:
+[Project 1]  [Hours] hrs  ████████░░ [Percentage]%
+[Project 2]  [Hours] hrs  ██████░░░░ [Percentage]%
 
-## 🕒 Coding Timeline
+Last Updated: 05 October 2025
 
-```text
+
+
+🕰️ Coding Journey
+
+From: [Start Date] - To: 05 October 2025
+
 Total Time: [Total Hours] hrs
 
-[Language 1]  [Hours] hrs  ██████░░░░ [Percentage]%
-[Language 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
-```
+[Language 1]  [Hours] hrs  ████████░░ [Percentage]%
+[Language 2]  [Hours] hrs  ██████░░░░ [Percentage]%
+[Language 3]  [Hours] hrs  ████░░░░░░ [Percentage]%
 
----
 
-## 🙌 Support
 
-- **ERC-20**: \[Your ERC-20 Address\]
-- **BTC**: \[Your BTC Address\]
 
-*Thanks for stopping by!*
+🙌 Support My Work
+
+ERC-20 / EVM: [Your ERC-20 Address]
+BTC: [Your BTC Address]
+
+
+Thanks for visiting! Let's create something extraordinary together! 🚀
