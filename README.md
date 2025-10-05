@@ -1,18 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on Advanced Smart To-do List<br>👯 I’m looking to collaborate on some creative projects that solve real-world problems<br>🤝 I’m looking for help with passionate peoples<br>🌱 I’m currently learning AI ML and Deep Learning<br>💬 Ask me about UI UX design, frontend tech and creative problem solving<br>⚡ Fun fact I get my best ideas while taking long walks or at 2 AM
+# 👋 \[Your Name\]
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsakshar01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshar-sharma-001abc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aksharsharma01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@developwithakshar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshar2.dnd@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dwakshar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dwakshar&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwakshar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+\[Your Job Title\] from \[Your City, Country\]. Passionate about building innovative tech solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dwakshar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📋 About Me
+
+```yaml
+name: [Your Name]
+location: [Your City, Country]
+job: [Your Job Title]
+company: [Your Current Company]
+education: ["[Degree 1]", "[Degree 2]"]
+past_experiences:
+  - [Job Title, Company, Year Range]
+  - [Job Title, Company, Year Range]
+interests: ["[Interest 1]", "[Interest 2]"]
+skills: ["[Skill 1]", "[Skill 2]"]
+learning: ["[Topic 1]", "[Topic 2]"]
+hobbies: ["[Hobby 1]", "[Hobby 2]"]
+```
+
+---
+
+## 🌐 Connect
+
+- LinkedIn
+- Twitter
+
+---
+
+## ⚡ Recent Activity
+
+1. 🚀 Pushed to `[your-username]/[repo]`
+2. ❗ Opened issue #\[issue-number\] in `[repo-owner]/[repo]`
+3. 💪 Submitted PR #\[pr-number\] in `[repo-owner]/[repo]`
+
+---
+
+## 📊 Coding Stats
+
+**GitHub Stats**
+
+> 🏆 \[Contributions\] in 2025\
+> 📜 \[Public Repos\] Repos\
+> 🔑 \[Private Repos\] Repos
+
+**When I Code**
+
+```text
+🌞 Morning  [Commits]    ██████░░░░ [Percentage]%
+🌆 Daytime  [Commits]    ██░░░░░░░░ [Percentage]%
+🌃 Evening  [Commits]    ████░░░░░░ [Percentage]%
+🌙 Night    [Commits]    ███░░░░░░░ [Percentage]%
+```
+
+**This Week**
+
+```text
+💬 Languages:
+[Language 1]  [Hours] hrs  ██████░░░░ [Percentage]%
+[Language 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
+
+🐱‍💻 Projects:
+[Project 1]  [Hours] hrs  ██████░░░░ [Percentage]%
+[Project 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
+```
+
+Last Updated: 05/10/2025 UTC
+
+---
+
+## 🕒 Coding Timeline
+
+```text
+Total Time: [Total Hours] hrs
+
+[Language 1]  [Hours] hrs  ██████░░░░ [Percentage]%
+[Language 2]  [Hours] hrs  ████░░░░░░ [Percentage]%
+```
+
+---
+
+## 🙌 Support
+
+- **ERC-20**: \[Your ERC-20 Address\]
+- **BTC**: \[Your BTC Address\]
+
+*Thanks for stopping by!*
