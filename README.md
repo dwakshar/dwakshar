@@ -1,94 +1,92 @@
-🌟 Welcome to [Your Name]'s GitHub
-Hello! I'm a [Your Job Title] based in [Your City, Country], driven by a passion for crafting innovative tech solutions and pushing boundaries in [Your Field]. Explore my projects, skills, and journey below!
+# 🌟 Welcome to Dwakshar's GitHub
 
-🧑‍💻 About Me
-name: [Your Name]
-location: [Your City, Country]
-from: [Your Hometown]
-role: [Your Job Title]
-company: [Your Current Company]
-education:
-  - [Degree 1]
-  - [Degree 2]
+😊 Hello World! I'm **Dwakshar**, an App Developer from Delhi, India, who thrives on coding, designing, and creating apps that make a real difference. My projects, from intuitive apps to sleek UI designs, reflect my love for simplicity, usability, and impactful innovation.
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Akshar Sharma
+located_in: Delhi, India
+from: Delhi, India
+role: App Developer 
+education: ["Master in Computer Applications", "Bachelor in Computer Applications"]
 past_roles:
-  - [Job Title, Company, Year Range]
-  - [Job Title, Company, Year Range]
-interests:
-  - [Interest 1]
-  - [Interest 2]
-skills:
-  - [Skill 1]
-  - [Skill 2]
-currently_learning:
-  - [Topic 1]
-  - [Topic 2]
-hobbies:
-  - [Hobby 1]
-  - [Hobby 2]
+  - ["Frontend Software Engineer", "Marg MG", "India", "2024-2025"]
+  - ["Jr Game Designer & UX/UI Designer", "CuriousPixel Art Studio", "India" ,Fully Remote", "2023-2024"]
+interests: ["Decentralized Systems", "Cognitive & AI Applications", "Interaction Design", "Product Engineering", "Generative Interfaces", "Human-AI Collaboration", "Path Tracing"]
+currently_learning: ["LLMs", "Web3", "Flutter"]
+hobbies: ["Reading", "Kickboxing", "Content Creation", "Story-Driven Gaming", "Cinema"]
+```
 
+---
 
-🌐 Let’s Connect
+## 🌐 Connect with Me
 
-LinkedIn – Professional networking
-Twitter – Tech thoughts & updates
-Website – My portfolio & projects
+- **[LinkedIn](https://www.linkedin.com/in/dwakshar/)** – Let's talk tech and opportunities
+- **[Twitter](https://x.com/dwakshar)** – My thoughts on tech and trends
+- **[Portfolio](https://www.youtube.com/watch?v=NM5J_comS1o)** – comingsoon:0!
 
+---
 
-🚀 Recent Contributions
+## 📊 My Coding Stats 
 
+<!--START_SECTION:waka-->
+**GitHub Overview**
 
-✨ Pushed updates to [your-username]/[repo]
-🐛 Opened issue #[issue-number] in [repo-owner]/[repo]
-🔄 Submitted PR #[pr-number] to [repo-owner]/[repo]
+> 🏆 20 Contributions in 2025  
+> 📦 215.9 kB in GitHub Storage  
+> 📜 4 Public Repositories  
+> 🔒 1 Private Repository  
 
+**💡 Coding Rhythm**
 
+```text
+🌅 Morning    12 commits    ████████░░ 32.00%
+☀️ Daytime    8 commits     █████░░░░░ 23.00%
+🌙 Evening    25 commits    ███████░░░ 72.00%
+🌌 Night      7 commits     ██░░░░░░░░ 19.32%
+```
 
+**🔥 This Week’s Focus**
 
-📊 My Coding Stats
-
-GitHub Overview
-
-🏆 [Contributions] Contributions in 2025📦 [Storage Used] in GitHub Storage📜 [Public Repos] Public Repositories🔒 [Private Repos] Private Repositories  
-
-💡 Coding Rhythm
-🌅 Morning  [Commits] commits  ████░░░░░░ [Percentage]%
-☀️ Daytime  [Commits] commits  ████████░░ [Percentage]%
-🌙 Evening  [Commits] commits  ██████░░░░ [Percentage]%
-🌌 Night    [Commits] commits  ███░░░░░░░ [Percentage]%
-
-🔥 This Week’s Focus
-🕒 Time Zone: [Your Time Zone]
+```text
+🕒 Time Zone: Asia/Kolkata
 
 💻 Languages:
-[Language 1]  [Hours] hrs  ████████░░ [Percentage]%
-[Language 2]  [Hours] hrs  █████░░░░░ [Percentage]%
-[Language 3]  [Hours] hrs  ███░░░░░░░ [Percentage]%
+JavaScript    6h 41m    ████████░░ 72.00%
+TypeScript    2h 10m    █████░░░░░ 23.00%
+Python        1h 15m    ██░░░░░░░░ 11.00%
+Go            1h 10m    ██░░░░░░░░ 10.00%
+SQL           0h 30m    █░░░░░░░░░ 06.50%
+Bash          0h 30m    █░░░░░░░░░ 05.00%
 
 🛠️ Projects:
-[Project 1]  [Hours] hrs  ████████░░ [Percentage]%
-[Project 2]  [Hours] hrs  ██████░░░░ [Percentage]%
+smart-study-companion    1h 30m   ████████░░ 73.00%
+cloud-lms-app           0h 50m    ██░░░░░░░░ 20.00%
+```
 
-Last Updated: 05 October 2025
+*Last Updated: 08 October 2025*
+<!--END_SECTION:waka-->
 
+---
 
+## 🕰️ Coding Journey
 
-🕰️ Coding Journey
+<!--START_SECTION:waka-simple-->
+```text
+From: 13 March 2020 - To: 08 October 2025
+Total Time: 2,147 hrs 18 mins
 
-From: [Start Date] - To: 05 October 2025
+JavaScript    850 hrs    ████████░░ 39.60%
+TypeScript    430 hrs    █████░░░░░ 20.03%
+Python        320 hrs    ████░░░░░░ 14.90%
+Go            280 hrs    ███░░░░░░░ 13.04%
+SQL           150 hrs    ██░░░░░░░░ 06.99%
+```
+<!--END_SECTION:waka-simple-->
 
-Total Time: [Total Hours] hrs
+---
 
-[Language 1]  [Hours] hrs  ████████░░ [Percentage]%
-[Language 2]  [Hours] hrs  ██████░░░░ [Percentage]%
-[Language 3]  [Hours] hrs  ████░░░░░░ [Percentage]%
-
-
-
-
-🙌 Support My Work
-
-ERC-20 / EVM: [Your ERC-20 Address]
-BTC: [Your BTC Address]
-
-
-Thanks for visiting! Let's create something extraordinary together! 🚀
+*Thanks for stopping by! Let’s build something extraordinary together! 🚀*
