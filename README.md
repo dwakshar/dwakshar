@@ -29,7 +29,7 @@ hobbies: ["Reading", "Kickboxing", "Content Creation", "Story-Driven Gaming", "C
 
 - **[LinkedIn](https://www.linkedin.com/in/dwakshar/)** – Let's talk tech and opportunities
 - **[Twitter](https://x.com/dwakshar)** – My thoughts on tech and trends
-- **[Portfolio](https://www.youtube.com/watch?v=NM5J_comS1o)** – comingsoon:0!
+- **[Portfolio](https://www.youtube.com/watch?v=CsliQD7TvhI)** – comingsoon:0!
 
 ---
 
