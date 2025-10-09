@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Akshar Sharma
+full_name: Akshar Sharma
 located_in: Delhi, India
 from: Delhi, India
 role: Mobile Engineer 
