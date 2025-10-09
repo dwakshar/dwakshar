@@ -1,16 +1,17 @@
 # 🙏 Namaste & Welcome to My GitHub! 
 
-😊 Hello World! I'm **Dwakshar**, an App Developer from Delhi, India, who thrives on coding, designing, and creating apps that make a real difference. My projects, from intuitive apps to sleek UI designs, reflect my love for simplicity, usability, and impactful innovation.
+😊 Hello World! I'm **Dwakshar**, a Mobile Engineer from Delhi, India, who thrives on coding, designing, and creating apps that make a real difference. My projects, from intuitive apps to sleek UI designs, reflect my love for simplicity, usability, and impactful innovation.
 
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ## 🧑‍💻 About Me
 
 ```yaml
 name: Akshar Sharma
 located_in: Delhi, India
 from: Delhi, India
-role: App Developer 
+role: Mobile Engineer 
 education: ["Master in Computer Applications", "Bachelor in Computer Applications"]
 past_roles:
   - ["Frontend Software Engineer", "Marg MG", "India", "2024-2025"]
