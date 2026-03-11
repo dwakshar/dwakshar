@@ -14,9 +14,8 @@ full_name: Akshar Sharma
 located_in: Delhi, India
 from: Delhi, India
 role: Mobile Engineer 
-education: ["Master in Computer Applications", "Bachelor in Computer Applications"]
+education: ["Bachelor in Computer Applications"]
 past_roles:
-  - ["Frontend Software Engineer", "Marg MG", "India", "2024-2025"]
   - ["Jr Game Designer & UX/UI Designer", "CuriousPixel Art Studio", "India" ,Fully Remote", "2023-2024"]
 interests: ["Decentralized Systems", "Cognitive & AI Applications", "Interaction Design", "Product Engineering", "Generative Interfaces", "Human-AI Collaboration", "Path Tracing"]
 currently_learning: ["LLMs", "Web3", "Flutter"]
