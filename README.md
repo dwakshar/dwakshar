@@ -65,11 +65,12 @@ SQL           0h 30m    █░░░░░░░░░ 06.50%
 Bash          0h 30m    █░░░░░░░░░ 05.00%
 
 🛠️ Projects:
-smart-study-companion    1h 30m   ████████░░ 73.00%
-cloud-lms-app           0h 50m    ██░░░░░░░░ 20.00%
+blur-guard              4h 30m   ████████░░ 73.00%
+chrome-perf-analyzer    2h 00m   █████░░░░░ 46.00%
+ai-pr-review-bot        1h 21m   ██░░░░░░░░ 21.10%
 ```
 
-*Last Updated: 08 October 2025*
+*Last Updated: 13 March 2026*
 <!--END_SECTION:waka-->
 
 ---
