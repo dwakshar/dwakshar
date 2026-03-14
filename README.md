@@ -37,7 +37,7 @@ hobbies: ["Reading", "Kickboxing", "Content Creation", "Story-Driven Gaming", "C
 <!--START_SECTION:waka-->
 **GitHub Overview**
 
-> 🏆 20 Contributions in 2025  
+> 🏆 5 Contributions in 2026  
 > 📦 215.9 kB in GitHub Storage  
 > 📜 4 Public Repositories  
 > 🔒 1 Private Repository  
@@ -47,7 +47,7 @@ hobbies: ["Reading", "Kickboxing", "Content Creation", "Story-Driven Gaming", "C
 ```text
 🌅 Morning    12 commits    ████████░░ 32.00%
 ☀️ Daytime    8 commits     █████░░░░░ 23.00%
-🌙 Evening    25 commits    ███████░░░ 72.00%
+🌙 Evening    20 commits    ███████░░░ 72.00%
 🌌 Night      7 commits     ██░░░░░░░░ 19.32%
 ```
 
