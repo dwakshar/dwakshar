@@ -16,6 +16,7 @@ from: Delhi, India
 role: Mobile Engineer 
 education: ["Bachelor in Computer Applications"]
 past_roles:
+  - ["Open Source Contributor", "Rocket.Chat", "United States" ,Fully Remote", "2026"]
   - ["Jr Game Designer & UX/UI Designer", "CuriousPixel Art Studio", "India" ,Fully Remote", "2023-2024"]
 interests: ["Decentralized Systems", "Cognitive & AI Applications", "Interaction Design", "Product Engineering", "Generative Interfaces", "Human-AI Collaboration", "Path Tracing"]
 currently_learning: ["LLMs", "Web3", "Flutter"]
@@ -66,8 +67,8 @@ Bash          0h 30m    █░░░░░░░░░ 05.00%
 
 🛠️ Projects:
 blur-guard              4h 30m   ████████░░ 73.00%
-chrome-perf-analyzer    2h 00m   █████░░░░░ 46.00%
-ai-pr-review-bot        1h 21m   ██░░░░░░░░ 21.10%
+defendra                3h 00m   ██████░░░░ 52.00%
+commit-crown            1h 21m   ██░░░░░░░░ 21.10%
 ```
 
 *Last Updated: 13 March 2026*
