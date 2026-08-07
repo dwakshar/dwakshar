@@ -14,7 +14,7 @@ full_name: Akshar Sharma
 located_in: Delhi, India
 from: Delhi, India
 role: Mobile Engineer 
-education: ["Bachelor in Computer Applications"]
+education: ["Bachelor in Computer Applications", "Masters in Computer Applications"]
 past_roles:
   - ["Open Source Contributor", "Rocket.Chat", "United States" ,Fully Remote", "2026"]
   - ["Jr Game Designer & UX/UI Designer", "CuriousPixel Art Studio", "India" ,Fully Remote", "2023-2024"]
